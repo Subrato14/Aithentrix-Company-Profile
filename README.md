@@ -1,7 +1,6 @@
 # Aithentrix-Company-Profile
-Company brochure, services, engagement models.
 
-**Tagline:** Empowering Digital Growth — Web, Mobile & SaaS Solutions
+Empowering Digital Growth — Web, Mobile & SaaS Solutions
 
 **Who we are**
 Aithentrix is a full-service IT solutions and product delivery company led by Subrato (CEO). We specialize in planning, scoping, and delivering web, mobile, and SaaS projects for global clients.
