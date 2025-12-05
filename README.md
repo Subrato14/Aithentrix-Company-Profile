@@ -1,6 +1,6 @@
 # Aithentrix-Company-Profile
 
-# 👋 Hi, I'm Subrato  
+# 👋 Hi, I'm Subrato  Das
 ### CEO & Founder — Aithentrix  
 ### Delivering Web, Mobile & SaaS Solutions for Global Clients
 
@@ -151,3 +151,5 @@ To deliver **clean, on-time, user-friendly and scalable IT solutions** through p
 - Email: subratodas14@gmail.com
 - Website: https://aithentrix.com/ 
 - LinkedIn: https://www.linkedin.com/in/subrato-d-6b05b1a3/ 
+
+## Thank You
